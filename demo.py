@@ -17,7 +17,7 @@ import openpyxl
 #   os.popen(url)
 #   time.sleep(3)
 #   print("打开游戏成功！")
-
+#test insert
 #获取当前目录所有.exe安装包
 dir = []
 
